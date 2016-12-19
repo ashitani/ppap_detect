@@ -1,0 +1,5 @@
+classes = 2
+train  = data/ppap/ppap_train.txt
+valid  = data/ppap/ppap_valid.txt
+backup = /tmp/ppap-backup/
+names  = data/ppap/ppap.names.list
