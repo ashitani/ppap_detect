@@ -1,7 +1,10 @@
 # YOLO_PPAP
 
 PP/AP identification using YOLO_ver2 and chainer.
-For detail, see [Qiita Entry](TBD).
+For detail, see [Qiita Entry](http://qiita.com/ashitani/items/566cf9234682cb5f2d60).
+
+![example_movie](https://raw.githubusercontent.com/ashitani/ppap_detect/master/doc/out01.gif)
+
 
 # Preparation
 
